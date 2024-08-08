@@ -6,7 +6,7 @@ During the play, the player will make 4 piles of cards following suit.  The rule
 Kings, Jacks, and 7's are the most difficult to land, hence this game is called Prime as they are prime numbers.
 
 # Rules
-Start with a shuffled deck.  With the deck face down, pull cards from the top and sort them in piles according to suit, face up.  Heart cards go on top of heart, spade on top of spade, and so on.  These piles will be the placed cards.
+Start with a shuffled deck.  With the deck face down, pull cards from the top and sort them in piles according to suit, face up.  Heart cards go on top of heart, spade on top of spade, and so on.
 
 Face cards numeric values:
 - Jacks = 11
