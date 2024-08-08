@@ -6,7 +6,7 @@ During the play, the player will make 4 piles of cards following suit.  The rule
 Kings, Jacks, and 7's are the most difficult to land, hence this game is called Prime as they are prime numbers.
 
 # Rules
-Start with a shuffled deck.  With the deck face down, pull cards from the top and sort them in piles according to suit.  Heart cards go on top of heart, spade on top of spade, and so on.  The player will play cards according to numbers.
+Start with a shuffled deck.  With the deck face down, pull cards from the top and sort them in piles according to suit, face up.  Heart cards go on top of heart, spade on top of spade, and so on.  These piles will be the placed cards.
 
 Face cards numeric values:
 - Jacks = 11
@@ -14,21 +14,21 @@ Face cards numeric values:
 - Kings = 13
 - Aces = 1
 
-The drawn card can be placed on top of the previous card if they fit within the following rules:
+The drawn card can be placed on top of the placed card if they fit within the following rules:
 
 1. The drawn card is +1 of the placed card
    - Example: a 2 is on top of the pile, and the drawn card is a 3
-2. The placed card is divisible by the drawn card
-   - Example: a 3 is now on top of the pile, and the drawn card is a Queen.  12 is divisible by 3
+2. The drawn card is divisible by the placed card
+   - Example: a 3 is now on top of the pile, and the drawn card is a Queen (12).  12 is divisible by 3
 3. The drawn card is LESS than the placed card
    - Example: a Queen is on top of the pile, and the drawn card is a 7.  7 is less than 12
 3. Since the Ace is 1, it is divisible by all numbers, thus can always be placed
 
-If a card does not meet the above criteria, it will need to be placed in the discard pile, face up.
+If a card does not meet the above criteria, it will be placed in the discard pile, face up.
 
 During each pull from the deck, the player can discard a card if they choose.  This can be used as a strategy to play the more difficult cards.
 
-After the initial deck is played through, the discard pile is then shuffled and played.
+After the initial deck is played through, the discard pile is then shuffled and played once.
 
 # Winning
 The player will aim for the following winning scenarios:
