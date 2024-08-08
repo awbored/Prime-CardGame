@@ -28,6 +28,8 @@ If a card does not meet the above criteria, it will be placed in the discard pil
 
 During each pull from the deck, the player can discard a card if they choose.  This can be used as a strategy to play the more difficult cards.
 
+The top card from the discard pile can also be played if a playable criteria is met.
+
 After the initial deck is played through, the discard pile is then shuffled and played once.
 
 # Winning
