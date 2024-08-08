@@ -1,9 +1,11 @@
 # Prime - A Short Card Game for Solo Play
 Prime, originally called 'suicide', was a card game I made up when I was a kid which is a solitaire like game that could be played on an airplane tray.  The games are short and can be played within a few minutes.
 
-During the play, the player will make 4 piles of cards following suit.  The rules determine if a card can be played on top of a previous card.  Cards that cannot be played will be discarded.  The goal of the game is to have as small of a discarded pile as possible.
+During the play, the player will make 4 piles of cards following suit.  The rules determine if a card can be played on top of a previous card.  Cards that cannot be played will be discarded.  The goal of the game is to have as small of a discard pile as possible.
 
 Kings, Jacks, and 7's are the most difficult to land, hence this game is called Prime as they are prime numbers.
+
+(Edit: There is another card game called [Prime](https://www.pagat.com/invented/prime.html) as well which was made for multiple players)
 
 # Rules
 Start with a shuffled deck.  With the deck face down, pull cards from the top and sort them in piles according to suit, face up.  Heart cards go on top of heart, spade on top of spade, and so on.
