@@ -1,5 +1,5 @@
 # Prime - A Short Card Game for Solo Play
-Prime, originally called 'suicide', was a card game I made up when I was a kid which is a solitaire like game that could be played on an airplane tray.  The games are short and can be played in a few minutes.
+Prime, originally called 'suicide', was a card game I made up when I was a kid which is a solitaire like game that could be played on an airplane tray.  The games are short and can be played within a few minutes.
 
 During the play, the player will make 4 piles of cards following suit.  The rules determine if a card can be played on top of a previous card.  Cards that cannot be played will be discarded.  The goal of the game is to have as small of a discarded pile as possible.
 
