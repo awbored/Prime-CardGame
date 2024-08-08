@@ -26,9 +26,10 @@ The drawn card can be placed on top of the placed card if they fit within the fo
 
 If a card does not meet the above criteria, it will be placed in the discard pile, face up.
 
-During each pull from the deck, the player can discard a card if they choose.  This can be used as a strategy to play the more difficult cards.
+During each pull from the deck, the player may discard a card if they choose.  This can be used as a strategy to play the more difficult cards.
 
 The top card from the discard pile can also be played if a playable criteria is met.
+- Example: played card is a Jack and drawn card is King.  King is discarded, but the next drawn card is Queen.  The King can then be retrieved from the top of the discard pile, provided there were no other cards on top of it.
 
 After the initial deck is played through, the discard pile is then shuffled and played once.
 
