@@ -37,6 +37,10 @@ The player will aim for the following winning scenarios:
    - A perfect game is when all cards have been played and there are no discarded cards
 2. Prime Game
    - All prime cards have been played: 2, 3, 5, 7, Jacks (11), Kings (13)
-3. Average Win
+3. All Royalty
+   - All Kings, Queens, and Jacks have been played
+4. All Kings
+   - All Kings have been played 
+5. Average Win
    - The discard pile is less than 5
 
