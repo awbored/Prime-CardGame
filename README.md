@@ -47,10 +47,12 @@ The player will aim for the following winning scenarios:
    - All Kings, Queens, and Jacks have been played
 4. Kings Company
    - All Kings have been played
-5. Jack of all Trades
+5. God save the Queen
+   - All Queens have been played
+6. Jack of all Trades
    - All Jacks have been played
-6. Lucky 7's
+7. Lucky 7's
    - All 7's have been played 
-7. Average Win
+8. Average Win
    - The discard pile is less than 5
 
