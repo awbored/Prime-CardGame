@@ -39,17 +39,19 @@ After the initial deck is played through, the discard pile is then shuffled and 
 # Winning
 The player will aim for the following winning scenarios:
 
-1. Perfect Game - 10,000 points
+1. 🥇 Perfect Game - 10,000 points
    - A perfect game is when all cards have been played and there are no discarded cards
-2. Prime Game - 9,973 points
+2. 🥈 Prime Game - 9,973 points
    - All prime cards have been played: 2, 3, 5, 7, Jacks (11), Kings (13)
-3. Royal Party - 5,000 points
+3. 🥉 Royal Party - 5,000 points
    - All Kings, Queens, and Jacks have been played
-4. Kings Company - 3,000 points
+4. 🏆 Kings Company - 3,000 points
    - All Kings have been played
-5. Jack of all Trades - 1,000 points
+5. 🏆 Jack of all Trades - 1,000 points
    - All Jacks have been played
-6. Lucky 7's - 777 points
+6. 🏆 Lucky 7's - 777 points
    - All 7's have been played 
-7. Average Win - 500 points
+7. 🏆 Average Win - 500 points
    - The discard pile is less than 5
+
+🏆 Points of these winning scenarios can be added together if multiple criteria is met.  Example: all 7's are played and the discarded pile is less than 5, total points would be 1277.
