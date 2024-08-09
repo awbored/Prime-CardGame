@@ -32,6 +32,7 @@ During each pull from the deck, the player may discard a card if they choose.  T
 
 The top card from the discard pile can also be played if a playable criteria is met.
 - Example: played card is a Jack and drawn card is King.  King is discarded, but the next drawn card is Queen.  The King can then be retrieved from the top of the discard pile, provided there were no other discards that block the King.
+- Multiple cards from the discard pile can be played if playable criteria is continued to be met.  The player can only play what is on top of the discard pile.
 
 After the initial deck is played through, the discard pile is then shuffled and played once.
 
